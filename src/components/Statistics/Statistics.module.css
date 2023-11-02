@@ -7,7 +7,7 @@
     margin-top: 16px;
     display: flex;
     flex-direction: column;
-    gap: 4px;
+    gap: 8px;
 }
 
 .item {
@@ -17,5 +17,5 @@
 .total {
     margin-top: 16px;
     font-weight: 700;
-    color: #fff;
+    color: rgb(255, 100, 100);
 }
